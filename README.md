@@ -1,16 +1,40 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Juan Rivas
 
-<!--
-**Juardo2000/Juardo2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador de Software & Estudiante de Computación** en la Universidad del Zulia. Especializado en el desarrollo backend con Python, Flask, bases de datos y la integración de agentes inteligentes.
 
-Here are some ideas to get you started:
+🌐 [Visita mi Portafolio Web](https://juardo2000.github.io/portafolio/) | [LinkedIn](https://linkedin.com/in/juan-rivas-4b2a28361/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend** | Python, Flask (rutas, solicitudes HTTP, lógica de servidor) |
+| **Frontend** | HTML5, CSS3, diseño responsivo y maquetación web |
+| **Bases de Datos** | MySQL, modelos relacionales, consultas SQL |
+| **AI & Tools** | Agentes inteligentes (Gemini API / Google GenAI SDK), Git, GitHub, Cloudflared |
+
+---
+
+### 🚀 Proyectos Destacados
+
+* **[Sistema de Agentes Inteligentes con Gemini API](https://github.com/juardo2000)**
+  * *Tecnologías:* Python, Gemini API, Google GenAI SDK, Agentes AI
+  * *Descripción:* Plataforma orientada a la integración de agentes conversacionales y automatizados, aprovechando el SDK de Google para orquestación y gestión de contexto.
+
+* **[Aplicación Web Full-Stack con Flask](https://github.com/juardo2000)**
+  * *Tecnologías:* Python, Flask, HTML5 / CSS3, Backend Web
+  * *Descripción:* Aplicación web completa con Flask en el backend e interfaz maquetada, incluyendo comunicación servidor-cliente y procesamiento de formularios.
+
+* **[Diseño e Integración de BD Relacionales con MySQL](https://github.com/juardo2000)**
+  * *Tecnologías:* MySQL, SQL, Python, Bases de Datos
+  * *Descripción:* Modelado, estructuración y gestión de bases de datos relacionales, implementando relaciones y persistencia de datos para aplicaciones Python.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juardo2000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
