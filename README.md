@@ -30,11 +30,3 @@
 * **[Diseño e Integración de BD Relacionales con MySQL](https://github.com/juardo2000)**
   * *Tecnologías:* MySQL, SQL, Python, Bases de Datos
   * *Descripción:* Modelado, estructuración y gestión de bases de datos relacionales, implementando relaciones y persistencia de datos para aplicaciones Python.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juardo2000&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
